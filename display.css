@@ -1,0 +1,12 @@
+p {
+    text-shadow: 1px 1px goldenrod, 2px 2px red, 1px 1px green;
+    font-size: 30px;
+}
+
+.shadow {
+    width: 100px;
+    height: 100px;
+    border: 1px sold;
+    background-color: red;
+    box-shadow: 5px 5px 5px green
+}
